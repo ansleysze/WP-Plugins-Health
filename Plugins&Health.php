@@ -25,7 +25,7 @@ function list_plugins_site_health_page() {
     $slug = basename($plugin_file, '.php');
 
     $plugin_list[] = array(
-      'slug' => $slug,
+      'slugname' => $slug,
       'status' => $status,
       'update_status' => $update,
       'version' => $plugin_data['Version']
