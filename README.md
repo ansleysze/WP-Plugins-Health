@@ -2,6 +2,8 @@
 
 Displays a list of installed plugins and site health information on the wp-admin/ page.
 
+works with both LOCAL AND WORDPRESS SITES, JUST ADD AND DOWNLOAD THE PLUGIN!
+
 ## Installation
 
 1. Download the `Plugins&Health` plugin folder.
